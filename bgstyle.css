@@ -1,0 +1,26 @@
+div{
+    width: 80%;
+    margin: auto;
+    height: 100px;
+}
+
+.bgcolor{
+    background-color: aquamarine;
+}
+
+.bgimage{
+    background-image: url("https://share.google/aEQSQKmZV9o5Mrbri");
+}
+
+.bgposition{
+    height: 350px;
+    background: url("https://smktelkom-pwt.sch.id/uncategorized/logo-telkom-schools-2/") center no-repeat;
+}
+
+.gradient1{
+    background: linear-gradient(to right, red, yellow);
+}
+
+.gradient2{
+    background: linear-gradient(to bottom, blue, purple);
+}
